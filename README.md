@@ -9,7 +9,6 @@
 ##Release History
 
 (Nothing yet)
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/anbestephen/collaboration-tool/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/anbestephen/collaboration-tool/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
