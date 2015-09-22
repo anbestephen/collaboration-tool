@@ -1,5 +1,5 @@
-[![Stories in Ready](https://badge.waffle.io/anbestephen/collaboration-tool.png?label=ready&title=Ready)](https://waffle.io/anbestephen/collaboration-tool)
-# collaboration-tool
+
+# collaboration-tool   [![Stories in Ready](https://badge.waffle.io/anbestephen/collaboration-tool.png?label=ready&title=Ready)](https://waffle.io/anbestephen/collaboration-tool)
 
 [![Build Status](https://semaphoreci.com/api/v1/projects/c68deb72-05dc-4709-aad5-6c50fb92029b/543967/badge.svg)](https://semaphoreci.com/anbestephen/collaboration-tool)
 [![Build Status](https://travis-ci.org/anbestephen/collaboration-tool.svg)](https://travis-ci.org/anbestephen/collaboration-tool)
