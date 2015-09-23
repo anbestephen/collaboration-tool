@@ -7,6 +7,16 @@
 [![devDependency Status](https://david-dm.org/anbestephen/collaboration-tool/dev-status.svg)](https://david-dm.org/anbestephen/collaboration-tool#info=devDependencies)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/anbestephen/collaboration-tool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+
+##About this Repository
+
+##License
+Animate.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
+
+##Contributing
+Pull requests are the way to go here. I apologise in advance for the slow action on pull requests and issues. 
+I only have two rules for submitting a pull request: match the naming convention (camelCase, categorised [fades, bounces, etc])
+and let us see a demo of submitted animations in a pen. That last one is important.
 ##Release History
 
 (Nothing yet)
