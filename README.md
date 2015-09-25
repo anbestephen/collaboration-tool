@@ -9,7 +9,9 @@
 
 
 ##About this Repository
-Edited in cloud9 Online IDE: https://ide.c9.io/anbestephen/collaboration-tool
+Edited with **:heart: in**  [<img src="https://d6ff1xmuve0sx.cloudfront.net/nc-3.0.2778-61b1e618/static/plugins/c9.profile/static/images/c9-logo.png">](https://ide.c9.io/anbestephen/collaboration-tool/) Cloud 9 online IDE
+
+
 ##License
 Animate.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
 
@@ -17,6 +19,7 @@ Animate.css is licensed under the MIT license. (http://opensource.org/licenses/M
 Pull requests are the way to go here. I apologise in advance for the slow action on pull requests and issues. 
 I only have two rules for submitting a pull request: match the naming convention (camelCase, categorised [fades, bounces, etc])
 and let us see a demo of submitted animations in a pen. That last one is important.
+
 ##Release History
 
 (Nothing yet)
